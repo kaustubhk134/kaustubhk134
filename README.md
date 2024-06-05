@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java and Javascript**
 
-- 💬 Ask me about **Java, Frontend, Arduino and IOT.**
+- 💬 Ask me about **Java, Frontend, Arduino, IOT and ROS (Robot Oprating System).**
 
 - 📫 How to reach me **kulurkarkaustubh134@gmail.com**
 
