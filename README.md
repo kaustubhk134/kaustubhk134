@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Docker and Kubernetes**
 
-- 💬 Ask me about **MERN, AWS, Java, Robotics and Drones**
+- 💬 Ask me about **MERN, AWS, Java, Database, Robotics and Drones**
 
 - 📫 How to reach me **kulurkarkaustubh134@gmail.com**
 
