@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Kaustubh .K</h1>
 <h3 align="center">A Full-Stack (MERN) Developer from the paleBlue dot 🌏</h3>
 
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=4ade80&lines=Welcome+to+my+GitHub+profile!;Building+future-ready+tech+solutions.;Coding+my+dreams+into+reality.;&center=true&width=500&height=50" alt="Typing SVG">
+</div>
+
+---
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaustubhk134&label=Profile%20views&color=0e75b6&style=flat" alt="kaustubhk134" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaustubhk134" alt="kaustubhk134" /></a> </p>
